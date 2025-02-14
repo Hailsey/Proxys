@@ -22,4 +22,4 @@ __在开始之前，请确保你已经下载了Quantumult X应用程序__
 ### Quantumult X 懒人配置 🔨
 
 - __[点击将配置导入到Quantumult X](https://api.boxjs.app/quanx/add-resource?remote-resource=https%3A%2F%2Fraw.githubusercontent.com%2FHailsey%2FProxys%2Fmain%2FQuantumultX%2FQuantumult%2520X%E6%87%92%E4%BA%BA%E9%85%8D%E7%BD%AE.conf)__
-- __手动添加配置：https://raw.githubusercontent.com/Hailsey/Proxys/main/QuantumultX/Quantumult%20X懒人配置.conf 复制链接到Quantumult X中从URl下载配置__
+- __手动添加配置：https://raw.githubusercontent.com/Hailsey/Proxys/main/QuantumultX/Quantumult%20X懒人配置.conf 复制链接到Quantumult X中从URl下载配置.__
